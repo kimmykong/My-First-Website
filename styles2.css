@@ -1,0 +1,16 @@
+h1 {font-family: 'Rock Salt', arial, serif;font-size:xx-large;border-style:groove;color:blue;}
+body{background-color:red;}
+a:link {color:Azure;}
+a:visited {color:white}
+a:hover {color:Chartreuse;}
+a:active {color:Darkorange;}
+hr {color:Gold;}
+p {color:Yellow;font-size:125%;font-family: 'Kreon', arial, serif;}
+p:first-letter{font-size:200%;color:black;}
+span.steps{font-size:150%;color:gold;}
+h3{color:Chartreuse;size:175%;}
+h2{color:Chartreuse ;size:200%; font-family: 'Copse', arial, serif;}
+table, td, th {border:4px solid black;}
+td {padding:5px;text-align:center;background-color:black;color:white;font-size:125%;}
+th {background-color:BlueViolet;color:white;font-size:125%;}
+img{border:gold;}
